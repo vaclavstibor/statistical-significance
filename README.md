@@ -1,7 +1,4 @@
-# statistical-significance
-Statistical Significance Tests for Chemistry Experiments (Temp. Repository)
-
-# Critical Analysis & Biochemical Interpretation of Results
+# Statistical Significance Tests for Chemistry Experiments (Temp. Repository)
 
 ## 1. Inoculum Growth Time Optimization
 
