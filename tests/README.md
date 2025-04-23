@@ -1,0 +1,9 @@
+***Úvodní text kapitoly***
+
+Veškerá získaná data byla analyzována prostřednictvím programovacího jazyka Python (verze 3.10) s využitím specializovaných knihoven pro vědeckou práci a statistické zkoumání. Pro manipulaci s daty a jejich přípravu byly použity knihovny Pandas a NumPy. Statistické testy byly realizovány pomocí modulů scipy.stats a statsmodels. (_pokud budeš používat i nějaké obrázky vygenerované kodem_) Vizualizace výsledků byla provedena s využitím knihoven Matplotlib a Seaborn, přičemž byl kladen důraz na jednotný grafický styl a srozumitelnost prezentovaných dat.
+
+Statistické testování bylo prováděno na standardní hladině významnosti α = 0,05. Před použitím parametrických testů byla ověřena normalita rozdělení dat pomocí Shapiro-Wilkova testu a homogenita rozptylů Leveneho testem. Pro porovnání více experimentálních skupin byla aplikována jednocestná analýza rozptylu (ANOVA), následovaná post-hoc testem Tukeyho HSD pro identifikaci statisticky významných rozdílů mezi jednotlivými páry skupin. Pro srovnání dvou experimentálních podmínek byl použit nezávislý t-test.
+
+Výsledky jsou prezentovány jako aritmetický průměr z biologických replikátů (n = 3–5 dle konkrétního experimentu) ± směrodatná odchylka. Vztahy mezi sledovanými parametry byly analyzovány korelační analýzou a vizualizovány pomocí bodových grafů. Pro přehlednou interpretaci výsledků byly použity sloupcové grafy se zobrazením směrodatné odchylky a vyznačením statistické významnosti rozdílů mezi skupinami.
+
+V případech, kdy nebyla k dispozici originální data jednotlivých replikátů, byly jednotlivé hodnoty simulovány na základě průměrů a směrodatných odchylek, aby bylo možné aplikovat příslušné statistické testy.
